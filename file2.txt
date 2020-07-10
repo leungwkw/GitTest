@@ -1,2 +1,3 @@
 Some text that belongs to file2.txt.
 Some more text that belongs to file2.txt.
+Even more text.
