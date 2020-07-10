@@ -1,0 +1,1 @@
+Some text that belongs to file2.txt.
