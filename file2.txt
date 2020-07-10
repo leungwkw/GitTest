@@ -1,4 +1,3 @@
 Some text that belongs to file2.txt.
 Some more text that belongs to file2.txt.
-Some boring stuff.
-Some more boring stuff.
+Final edit.
