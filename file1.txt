@@ -1,4 +1,4 @@
 Some text.
 Some more text.
 Final edit.
-A change.
+Final change.
